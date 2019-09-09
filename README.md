@@ -1,7 +1,7 @@
 # encoder
 A simple iOS app that encodes and decodes text using keys.
 
-This app is currently not on the iOS App Store, however you can see the images below!
+This app is currently not on the iOS App Store, however feel free to take a look at the images below!
 
 NOTE: Ignore the time on the screenshots (I took the screenshots out of order).
 
